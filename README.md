@@ -1,1 +1,0 @@
-# bigquery_data_quality
